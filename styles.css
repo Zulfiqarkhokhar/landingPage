@@ -1,0 +1,71 @@
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Define some basic styling for the page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+  text-align: center;
+}
+
+header {
+  background-color: #007bff;
+  color: #fff;
+  padding: 40px;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+section {
+  margin: 40px;
+}
+
+.feature {
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.feature img {
+  width: 200px;
+  height: 200px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+#cta {
+  background-color: #333;
+  color: #fff;
+  padding: 40px;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px;
+}
